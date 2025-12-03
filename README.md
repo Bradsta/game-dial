@@ -1,4 +1,4 @@
-# game-dial
+# GameDial
 
 <div align="center">
   <img src="Images/icon.png" width="250" alt="Currently Playing">
