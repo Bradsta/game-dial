@@ -7,9 +7,9 @@
 A personal game catalogue iOS app built with SwiftUI that helps you organize and track your gaming library. Search for games, add them to your collection, and track your progress through different gaming statuses.
 
 <div align="center">
-  <img src="Images/main-catalogue.png" height="450" alt="Main Catalogue" />
-  <img src="Images/search-view.png" height="450" alt="Search View" />
-  <img src="Images/game-detail.png" height="450" alt="Game Detail" />
+  <img src="Images/main-catalogue.jpeg" height="450" alt="Main Catalogue" />
+  <img src="Images/search-view.jpeg" height="450" alt="Search View" />
+  <img src="Images/game-detail.jpeg" height="450" alt="Game Detail" />
 </div>
 
 ## Features
