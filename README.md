@@ -6,6 +6,12 @@
 
 A personal game catalogue iOS app built with SwiftUI that helps you organize and track your gaming library. Search for games, add them to your collection, and track your progress through different gaming statuses.
 
+<div align="center">
+  <img src="Images/main-catalogue.png" height="450" alt="Main Catalogue" />
+  <img src="Images/search-view.png" height="450" alt="Search View" />
+  <img src="Images/game-detail.png" height="450" alt="Game Detail" />
+</div>
+
 ## Features
 
 ### 🎮 Game Management
@@ -110,22 +116,6 @@ Potential features for future development:
 - [ ] Game recommendations based on your library
 - [ ] Screenshots and notes for each game
 - [ ] Export/import functionality
-
-## Screenshots
-
-### Main Catalogue View
-![Main Catalogue](Images/main-catalogue.png)
-*Organize your games by status with beautiful cover art in a grid layout*
-
-### Search Interface  
-![Search View](Images/search-view.png)
-*Search the IGDB database and discover new games to add to your collection*
-
-### Game Detail & Status Management
-![Game Detail](Images/game-detail.png)
-*View detailed game information and update your progress status*
-
-*Track your progress across different gaming statuses*
 
 ## Contributing
 
