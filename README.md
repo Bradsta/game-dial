@@ -114,15 +114,15 @@ Potential features for future development:
 ## Screenshots
 
 ### Main Catalogue View
-![Main Catalogue](Images/main-catalogue.png)
+![Main Catalogue](Images/main-catalogue.jpeg)
 *Organize your games by status with beautiful cover art in a grid layout*
 
 ### Search Interface  
-![Search View](Images/search-view.png)
+![Search View](Images/search-view.jpeg)
 *Search the IGDB database and discover new games to add to your collection*
 
 ### Game Detail & Status Management
-![Game Detail](Images/game-detail.png)
+![Game Detail](Images/game-detail.jpeg)
 *View detailed game information and update your progress status*
 
 *Track your progress across different gaming statuses*
