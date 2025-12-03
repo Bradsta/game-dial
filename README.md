@@ -1,4 +1,8 @@
-# GameDial
+# game-dial
+
+<div align="center">
+  <img src="Images/icon.png" width="250" alt="Currently Playing">
+</div>
 
 A personal game catalogue iOS app built with SwiftUI that helps you organize and track your gaming library. Search for games, add them to your collection, and track your progress through different gaming statuses.
 
@@ -72,15 +76,16 @@ A personal game catalogue iOS app built with SwiftUI that helps you organize and
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/GameDial.git
-cd GameDial
+git clone https://github.com/yourusername/game-dial.git
+cd game-dial
 ```
 
 2. Install dependencies (if using CocoaPods or Swift Package Manager)
 
 3. Configure IGDB API credentials:
    - Get your Client ID and Client Secret from [IGDB API](https://api.igdb.com/)
-   - Update the credentials in `IGDBService.swift` (Note: For production apps, store these securely)
+   - Update the empty `clientId` and `clientSecret` strings in `IGDBService.swift`
+   - **Important**: Never commit your actual API credentials to version control
 
 4. Build and run the project in Xcode
 
@@ -108,7 +113,19 @@ Potential features for future development:
 
 ## Screenshots
 
-*Add screenshots of your app here to showcase the UI*
+### Main Catalogue View
+![Main Catalogue](Images/main-catalogue.png)
+*Organize your games by status with beautiful cover art in a grid layout*
+
+### Search Interface  
+![Search View](Images/search-view.png)
+*Search the IGDB database and discover new games to add to your collection*
+
+### Game Detail & Status Management
+![Game Detail](Images/game-detail.png)
+*View detailed game information and update your progress status*
+
+*Track your progress across different gaming statuses*
 
 ## Contributing
 
